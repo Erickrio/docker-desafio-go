@@ -17,3 +17,33 @@ Divirta-se!
 
 URL do meu Docker Hub: https://hub.docker.com/u/erickrj
 
+
+*************************************
+        FAÇA O BUILD
+************************************
+1. Comanndo:  docker build -t erickrj/docker-desafio-go .
+
+
+*************************************
+      Verifique a imagem criada
+************************************
+
+2. Comanndo:  docker images:
+
+![image](https://github.com/Erickrio/docker-desafio-go/assets/43687406/24e311ac-2f11-4e34-89d8-f42a6e3eba88)
+
+*************************************
+        execute a Imagem
+************************************
+
+3. docker run --rm erickrj/docker-desafio-go:latest
+
+
+*************************************
+      SAIDA: Full Cycle Rocks!!
+************************************
+
+   
+
+
+
